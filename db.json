@@ -1,3 +1,104 @@
 {
-    "bloods": {}
+  "bloods": {
+    "26": {
+      "userName": "Physalis",
+      "solveDate": "2024-09-02T20:53:43.529425Z"
+    },
+    "27": {
+      "userName": "M4T34",
+      "solveDate": "2024-09-02T18:15:39.171615Z"
+    },
+    "28": {
+      "userName": "M4T34",
+      "solveDate": "2024-09-02T18:45:03.029613Z"
+    },
+    "30": {
+      "userName": "N4YTE",
+      "solveDate": "2024-09-02T18:03:33.776621Z"
+    },
+    "32": {
+      "userName": "Kesha",
+      "solveDate": "2024-09-02T18:30:17.357936Z"
+    },
+    "33": {
+      "userName": "Thomas",
+      "solveDate": "2024-09-02T18:17:03.599053Z"
+    },
+    "34": {
+      "userName": "Bnyt",
+      "solveDate": "2024-09-02T19:07:46.794268Z"
+    },
+    "36": {
+      "userName": "Thomas",
+      "solveDate": "2024-09-02T18:09:23.513316Z"
+    },
+    "37": {
+      "userName": "Kesha",
+      "solveDate": "2024-09-02T19:24:07.740187Z"
+    },
+    "38": {
+      "userName": "Kesha",
+      "solveDate": "2024-09-02T19:45:43.468020Z"
+    },
+    "39": {
+      "userName": "Thomas",
+      "solveDate": "2024-09-02T18:21:06.849016Z"
+    },
+    "40": {
+      "userName": "Touriste",
+      "solveDate": "2024-09-02T20:38:30.395308Z"
+    },
+    "45": {
+      "userName": "N4YTE",
+      "solveDate": "2024-09-02T18:00:15.026720Z"
+    },
+    "48": {
+      "userName": "Touriste",
+      "solveDate": "2024-09-02T19:20:57.444092Z"
+    },
+    "49": {
+      "userName": "Mister M",
+      "solveDate": "2024-09-02T20:14:57.918143Z"
+    },
+    "51": {
+      "userName": "Mister M",
+      "solveDate": "2024-09-02T20:13:39.579492Z"
+    },
+    "55": {
+      "userName": "Briconawak",
+      "solveDate": "2024-09-02T18:48:19.245091Z"
+    },
+    "57": {
+      "userName": "Mister M",
+      "solveDate": "2024-09-02T18:22:33.301453Z"
+    },
+    "58": {
+      "userName": "Natgru06",
+      "solveDate": "2024-09-02T20:57:51.321844Z"
+    },
+    "64": {
+      "userName": "Oui",
+      "solveDate": "2024-09-02T19:48:30.569914Z"
+    },
+    "65": {
+      "userName": "Touriste",
+      "solveDate": "2024-09-02T19:51:08.566522Z"
+    },
+    "67": {
+      "userName": "Mister M",
+      "solveDate": "2024-09-02T19:28:56.026927Z"
+    },
+    "68": {
+      "userName": "Oui",
+      "solveDate": "2024-09-02T19:59:15.525763Z"
+    },
+    "69": {
+      "userName": "Aloys",
+      "solveDate": "2024-09-02T19:54:22.248360Z"
+    },
+    "70": {
+      "userName": "Touriste",
+      "solveDate": "2024-09-02T20:04:07.154767Z"
+    }
+  }
 }

@@ -1,4 +1,3 @@
-// https://ctf.davincicode.fr/api/v1/challenges
 let fs=require("fs")
 let fetch=require("node-fetch")
 require("dotenv").config()
@@ -35,6 +34,11 @@ async function getChallengeSolves(challenge_id){
 
 async function firstBlood(challengeId,challengeName, userName, solveDate){
     if(typeof(db.bloods[challengeId])=="undefined"){
+        db.bloods[challengeId]={
+            "userName": userName,
+            "solveDate": solveDate
+        }
+        updateDb()   
         const bloodEmbed = new EmbedBuilder()
         .setColor(0x0099FF)
         .setTitle('🩸First Blood !🩸')
@@ -43,15 +47,7 @@ async function firstBlood(challengeId,challengeName, userName, solveDate){
         
         let bloodMessage=await bloodChannel.send({ embeds: [bloodEmbed] });
         await bloodMessage.react("🩸")
-        db.bloods[challengeId]=
-        {
-            "userName": userName,
-            "solveDate": solveDate
-        }
-        updateDb()
-        
     }
-
 }
 
 let bloodChannel ;
